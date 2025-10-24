@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 39bd748d-438c-4503-b632-2bab0b05ef20
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/jbbutler/ar-catalog-demo-159
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
